@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1dfeb325-2cdd-479d-aa76-72fb74b59f8b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="ProjectId" id="1nZa7G4UkMq6RLPtXWXCS1xVQ8j" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="postgresql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../php_rest_myblog" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\pizzabaker\img" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1dfeb325-2cdd-479d-aa76-72fb74b59f8b" name="Default Changelist" comment="" />
+      <created>1611599897516</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611599897516</updated>
+      <workItem from="1611599906785" duration="7271000" />
+      <workItem from="1611690606842" duration="15992000" />
+      <workItem from="1611709106233" duration="7397000" />
+      <workItem from="1611741107775" duration="23754000" />
+      <workItem from="1611821789196" duration="46042000" />
+      <workItem from="1611936043369" duration="26293000" />
+      <workItem from="1612032621450" duration="17729000" />
+      <workItem from="1612130060465" duration="6567000" />
+      <workItem from="1612137864923" duration="3862000" />
+      <workItem from="1612198581937" duration="308000" />
+      <workItem from="1612204993669" duration="3389000" />
+      <workItem from="1612214356568" duration="4437000" />
+      <workItem from="1612285486338" duration="250000" />
+      <workItem from="1612641301928" duration="14903000" />
+      <workItem from="1612733339741" duration="7285000" />
+      <workItem from="1612824277290" duration="3211000" />
+      <workItem from="1612853425294" duration="2330000" />
+      <workItem from="1612910644508" duration="7460000" />
+      <workItem from="1613040126790" duration="6407000" />
+      <workItem from="1613592329087" duration="5319000" />
+      <workItem from="1614635564465" duration="9000" />
+      <workItem from="1617620790882" duration="11000" />
+      <workItem from="1618153329959" duration="13000" />
+      <workItem from="1618225378484" duration="115000" />
+      <workItem from="1618403293566" duration="2066000" />
+      <workItem from="1618411026323" duration="305000" />
+      <workItem from="1618412806796" duration="275000" />
+      <workItem from="1618661191813" duration="1963000" />
+      <workItem from="1621867580889" duration="10000" />
+      <workItem from="1621873771316" duration="45000" />
+      <workItem from="1622298609684" duration="51000" />
+      <workItem from="1642588578444" duration="1455000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="124" key="FileChooserDialogImpl" timestamp="1622298645536">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="463" y="124" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1622298645536" />
+    <state x="517" y="292" key="NewPhpFileDialog" timestamp="1618406793600">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="517" y="292" key="NewPhpFileDialog/0.0.1366.738@0.0.1366.738" timestamp="1618406793600" />
+  </component>
+</project>
